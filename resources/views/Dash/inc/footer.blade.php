@@ -1,0 +1,1 @@
+<livewire:footer.footer-component />
